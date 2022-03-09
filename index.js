@@ -6,8 +6,8 @@ let vPos = 0
 let k=0
 
 let backgroundPics = [
-    {pic:'assets/grass.png', backgroundPercent: 55},
-    {pic:'assets/sky.png', backgroundPercent: 45}
+    {pic:'assets/grass.png', backgroundPercent: 45},
+    {pic:'assets/sky.png', backgroundPercent: 55}
 ]
 
 //declaring functions
